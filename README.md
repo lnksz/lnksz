@@ -1,6 +1,15 @@
-$${\color{lightgreen}Fullstack \space developer, \space from \space bootloader \space to \space backend.}$$
 
-## Hobby projects:
+![github-banner](https://github.com/lnksz/lnksz/assets/15908859/bcb82d6e-b06e-4739-ae8d-002066e3f0ce)
+
+
+## Work
+
+Building the Smart Grid bit by bit at [EFR](https://www.efr.de).
+
+![efr_30jahre_banner](https://github.com/lnksz/lnksz/assets/15908859/c9e1fdfb-e111-407b-a8d3-61b7c2c4e677)
+
+
+## Hobby
 
 ### Der Die Das
 

@@ -8,6 +8,9 @@ Building the Smart Grid bit by bit at [EFR](https://www.efr.de).
 
 ![efr_30jahre_banner](https://github.com/lnksz/lnksz/assets/15908859/c9e1fdfb-e111-407b-a8d3-61b7c2c4e677)
 
+<a href="https://www.linkedin.com/in/havasikristof/">
+  <img src="https://github.com/lnksz/lnksz/assets/15908859/91065450-20c0-4d94-bd3a-afb885e59767" alt="LinkedIn">
+</a>
 
 # Hobby
 

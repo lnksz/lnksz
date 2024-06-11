@@ -43,6 +43,12 @@ on top of it.
 
 - https://github.com/lnksz/release-relay
 
+## Mini vim syntax for ToDo
+
+![image](https://github.com/lnksz/lnksz/assets/15908859/9584281d-4d56-4cf6-ba6c-ede792788af4)
+
+https://gist.github.com/lnksz/7434e531e96c8d3a361f4f7b59de1f5f
+
 # Kernel Threads Archive
 
 My pointers to past discussions.

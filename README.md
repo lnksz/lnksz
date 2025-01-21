@@ -49,6 +49,23 @@ on top of it.
 
 https://gist.github.com/lnksz/7434e531e96c8d3a361f4f7b59de1f5f
 
+# FOSS Involvement
+
+## Mongoose
+
+- https://github.com/cesanta/mongoose/commits?author=lnksz
+- https://github.com/cesanta/mongoose/issues?q=is%3Aissue%20author%3Alnksz
+
+## AT91Bootloader
+
+- https://github.com/linux4sam/at91bootstrap/commits?author=lnksz
+- https://github.com/linux4sam/at91bootstrap/issues?q=is%3Aissue%20author%3Alnksz
+
+## Rivus
+
+- https://github.com/tum-ens/rivus/commits?author=lnksz
+- https://github.com/tum-ens/rivus/issues?q=is%3Aissue%20author%3Alnksz
+
 # Kernel Threads Archive
 
 My pointers to past discussions.

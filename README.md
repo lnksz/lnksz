@@ -70,6 +70,6 @@ https://gist.github.com/lnksz/7434e531e96c8d3a361f4f7b59de1f5f
 
 My pointers to past discussions.
 
-http://lists.infradead.org/pipermail/linux-mtd/2020-September/082175.html
-https://lore.kernel.org/all/CADBnMviweAwc1oFz2-4KtGBAQb3hii1ZkJpZDELXY_CASpd53w@mail.gmail.com/
-https://lists.linaro.org/archives/list/linux-stable-mirror@lists.linaro.org/thread/I5I3V4VZLKQVQNOT47VMGLB4NPS3625F/
+- http://lists.infradead.org/pipermail/linux-mtd/2020-September/082175.html
+- https://lore.kernel.org/all/CADBnMviweAwc1oFz2-4KtGBAQb3hii1ZkJpZDELXY_CASpd53w@mail.gmail.com/
+- https://lists.linaro.org/archives/list/linux-stable-mirror@lists.linaro.org/thread/I5I3V4VZLKQVQNOT47VMGLB4NPS3625F/

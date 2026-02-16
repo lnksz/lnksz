@@ -14,6 +14,20 @@ Building the Smart Grid bit by bit at [EFR](https://www.efr.de).
 
 # Hobby
 
+## OCD OpenCode in Docker
+
+Fire up opencode in a container, sharing what is needed for ergonomics, but not more.
+- https://hub.docker.com/repository/docker/lnksz
+- https://github.com/lnksz/ocd
+
+## Überview
+
+<img width="1897" height="411" alt="image" src="https://github.com/user-attachments/assets/feb27a02-72b5-4089-bbe3-774df03d104f" />
+
+Ultraminimalist web-view of my tasks in different ticketing systems. (Jira Server, Jira Cloud, GitLab Server).
+- https://github.com/lnksz/uberview
+
+
 ## Der Die Das
 
 ![image](https://github.com/lnksz/lnksz/assets/15908859/5b52270b-3e4e-4640-8cf3-cd7398cff170)
@@ -73,3 +87,7 @@ My pointers to past discussions.
 - http://lists.infradead.org/pipermail/linux-mtd/2020-September/082175.html
 - https://lore.kernel.org/all/CADBnMviweAwc1oFz2-4KtGBAQb3hii1ZkJpZDELXY_CASpd53w@mail.gmail.com/
 - https://lists.linaro.org/archives/list/linux-stable-mirror@lists.linaro.org/thread/I5I3V4VZLKQVQNOT47VMGLB4NPS3625F/
+
+# Docker
+
+https://hub.docker.com/repository/docker/lnksz

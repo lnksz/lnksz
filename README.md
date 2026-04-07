@@ -24,7 +24,7 @@ Vibed family game of yam's:
 ## OCD OpenCode in Docker
 
 Fire up opencode in a container, sharing what is needed for ergonomics, but not more.
-- https://hub.docker.com/repository/docker/lnksz
+- https://hub.docker.com/r/lnksz/ocd
 - https://github.com/lnksz/ocd
 
 ## Überview

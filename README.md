@@ -14,6 +14,13 @@ Building the Smart Grid bit by bit at [EFR](https://www.efr.de).
 
 # Hobby
 
+## Yahtzee Game
+
+<img width="391" height="869" alt="image" src="https://github.com/user-attachments/assets/3e7e7cff-2534-44c7-abc5-73f8e0bde2d5" />
+
+Vibed family game of yam's:
+- https://github.com/lnksz/yam-s-2d
+
 ## OCD OpenCode in Docker
 
 Fire up opencode in a container, sharing what is needed for ergonomics, but not more.

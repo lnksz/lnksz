@@ -12,6 +12,9 @@ Building the Smart Grid bit by bit at [EFR](https://www.efr.de).
   <img src="https://github.com/lnksz/lnksz/assets/15908859/91065450-20c0-4d94-bd3a-afb885e59767" alt="LinkedIn" style="max-width: 100%;height: 80px;">
 </a>
 
+My team is co-credited with finding and fixing https://github.com/advisories/GHSA-8j6f-944f-8jmj
+fixed in [mbedtls 3.6.6](https://github.com/Mbed-TLS/mbedtls/releases#:~:text=CVE%2D2026%2D25835-,Fix%20a%20bug%20in%20the%20TLS%201.2%20client%27s%20signature%20algorithm%20check%2C%20which%20caused%0Athe%20client%20to%20accept%20server%20key%20exchange%20messages%20signed%20with%20a%20signature%0Aalgorithm%20explicitly%20disallowed%20by%20the%20client.%20Found%20and%20reported%20by%0AEFR%2DGmbH%20and%20M.%20Heuft%20of%20Security%2DResearch%2DConsulting%20GmbH.%20CVE%2D2026%2D25834,-Fixed%20an%20issue)
+
 # Hobby
 
 ## Yahtzee Game
